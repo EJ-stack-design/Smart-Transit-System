@@ -71,3 +71,17 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 - Passenger session management.
 - ETA calculation.
 - Demand data collection and processing.
+
+---
+
+## System Architecture
+
+The Smart Transit System consists of three main components:
+
+1. Passenger and Operator Mobile Applications
+2. Backend Server and MySQL Database
+3. GPS-Enabled Vehicle Tracking Hardware
+
+The vehicle tracking hardware collects GPS coordinates and transmits location information to the backend server. The mobile applications retrieve the necessary information through REST API requests.
+
+The backend processes vehicle data, calculates estimated arrival times, and stores relevant information in the database.
