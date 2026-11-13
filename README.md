@@ -45,3 +45,29 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 - Visual Studio Code
 - Git and GitHub
 - Android Studio
+
+---
+
+## Key Features
+
+### Passenger Application
+- View available commuter vehicles.
+- Monitor vehicle locations on a map.
+- Check estimated time of arrival (ETA).
+- Share passenger location when permitted.
+- Receive vehicle capacity information.
+
+### Operator Application
+- Operator authentication.
+- Monitor vehicle locations.
+- View passenger locations who enabled location sharing.
+- Monitor passenger demand.
+- View demand summaries and hourly statistics.
+
+### Backend System
+- REST API for mobile applications.
+- Vehicle location management.
+- Trip management.
+- Passenger session management.
+- ETA calculation.
+- Demand data collection and processing.
