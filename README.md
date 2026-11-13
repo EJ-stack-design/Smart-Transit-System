@@ -19,3 +19,27 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 **Project Type:** Computer Engineering / Mobile Application / IoT
 
 **Developers:** EJ Godpray Doquila and Team
+
+## Technologies Used
+
+### Mobile Development
+- Flutter
+- Dart
+
+### Backend Development
+- Node.js
+- Express.js
+- REST API
+
+### Database
+- MySQL
+
+### Hardware and IoT
+- ESP32
+- GPS Module
+- Cellular Communication Module
+
+### Development Tools
+- Visual Studio Code
+- Git and GitHub
+- Android Studio
