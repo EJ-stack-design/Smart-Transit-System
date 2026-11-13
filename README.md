@@ -20,6 +20,8 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 
 **Developers:** EJ Godpray Doquila and Team
 
+---
+
 ## Technologies Used
 
 ### Mobile Development
