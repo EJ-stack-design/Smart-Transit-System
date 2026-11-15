@@ -89,3 +89,25 @@ https://smart-transit-backend.onrender.com
 - Express.js
 - MySQL
 - REST API
+
+## Testing the API
+
+You can test the vehicle endpoint using a browser or API testing tool.
+
+### Get Vehicle Information
+
+**GET**
+```text
+https://smart-transit-backend.onrender.com/api/vehicles
+```
+
+Expected result:
+- HTTP Status: 200 OK
+- Content-Type: application/json
+- Response: JSON array containing vehicle information.
+
+### Testing Tools
+
+- Browser
+- Postman
+- Thunder Client (VS Code Extension)
