@@ -35,7 +35,7 @@ https://smart-transit-backend.onrender.com
     "distanceRemaining": 25.02,
     "eta": null,
     "lastUpdated": "2026-11-09T04:24:27.000Z",
-    "direction": "Sogod Terminal → Silago Terminal"
+    "direction": "Silago Terminal → Sogod Terminal"
   }
 ]
 ```
