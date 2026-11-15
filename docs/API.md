@@ -15,10 +15,49 @@ https://smart-transit-backend.onrender.com
 
 ### 1. Get Vehicle Information
 
-- Method: GET
-- Endpoint: /api/vehicles
-- Purpose: Retrieves vehicle information, location, speed,
-  status, and estimated arrival time.
+- **Method:** GET
+- **Endpoint:** `/api/vehicles`
+- **Full URL:** `https://smart-transit-backend.onrender.com/api/vehicles`
+- **Purpose:** Retrieves vehicle information, GPS coordinates, speed, route, capacity status, and ETA.
+
+#### Example Response
+
+```json
+[
+  {
+    "vehicleId": "VAN-001",
+    "route": "Silago Terminal → Sogod Terminal",
+    "latitude": 10.3910,
+    "longitude": 124.9811,
+    "speed": 2.15,
+    "status": "On Route",
+    "capacityStatus": "available",
+    "distanceRemaining": 25.02,
+    "eta": null,
+    "lastUpdated": "2026-11-09T04:24:27.000Z",
+    "direction": "Sogod Terminal → Silago Terminal"
+  }
+]
+```
+
+*Note: This is an illustrative example. Coordinates and timestamps are sample values, not guaranteed current vehicle data.*
+
+#### Response Fields
+
+| Field | Data Type |
+|---|---|
+| vehicleId | String |
+| route | String |
+| latitude | Number |
+| longitude | Number |
+| speed | Number |
+| status | String |
+| capacityStatus | String |
+| distanceRemaining | Number |
+| eta | Number or null |
+| lastUpdated | ISO 8601 timestamp |
+| direction | String |
+
 
 ### 2. Submit Vehicle Location
 
