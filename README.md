@@ -76,9 +76,6 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 
 ## Application Screenshots
 
-
-## Application Screenshots
-
 ### Passenger Application
 
 **Passenger Home Screen**
