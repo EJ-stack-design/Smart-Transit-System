@@ -105,7 +105,6 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 
 ![Operator Dashboard](screenshots/operator-dashboard.jpg)
 
-
 ---
 
 ## System Architecture
