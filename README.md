@@ -121,3 +121,12 @@ flowchart TD
     D -->|Passenger location sharing| B
     E -->|Operator monitoring| B
 ```
+--- 
+
+## System Architecture
+
+The Smart Transit System connects the passenger
+application, operator application, vehicle hardware,
+backend server, and MySQL database.
+
+![Smart Transit System Architecture](docs/images/system-architecture.png)
