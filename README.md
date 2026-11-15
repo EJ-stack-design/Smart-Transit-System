@@ -130,3 +130,11 @@ application, operator application, vehicle hardware,
 backend server, and MySQL database.
 
 ![Smart Transit System Architecture](docs/images/system-architecture.png)
+
+---
+
+## Documentation
+
+- [API Documentation](docs/API.md)
+- [Installation Guide](docs/INSTALLATION.md)
+- [System Architecture](docs/images/system-architecture.png)
