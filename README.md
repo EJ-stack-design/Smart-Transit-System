@@ -74,6 +74,24 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 
 ---
 
+## Application Screenshots
+
+### Passenger Application
+
+| Home Screen | Vehicle Tracking |
+|---|---|
+| ![Passenger Home](screenshots/passenger-home.png) | ![Passenger Map](screenshots/passenger-map.png) |
+
+### Operator Application
+
+![Operator Dashboard](screenshots/operator-dashboard.png)
+
+### Hardware Prototype
+
+![Hardware Prototype](screenshots/hardware-prototype.png)
+
+---
+
 ## System Architecture
 
 The Smart Transit System consists of three main components:
