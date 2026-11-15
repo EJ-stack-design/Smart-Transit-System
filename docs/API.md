@@ -9,7 +9,7 @@ through a Node.js and Express backend.
 
 ## Base URL
 
-http://localhost:3000
+[http://localhost:3000](https://smart-transit-backend.onrender.com)
 
 ## API Endpoints
 
