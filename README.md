@@ -80,15 +80,11 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 
 | Home Screen | Vehicle Tracking |
 |---|---|
-| ![Passenger Home](screenshots/passenger-home.png) | ![Passenger Map](screenshots/passenger-map.png) |
+| ![Passenger Home](screenshots/passenger-home.jpg) | ![Passenger Map](screenshots/passenger-map.jpg) |
 
 ### Operator Application
 
-![Operator Dashboard](screenshots/operator-dashboard.png)
-
-### Hardware Prototype
-
-![Hardware Prototype](screenshots/hardware-prototype.png)
+![Operator Dashboard](screenshots/operator-dashboard.jpg)
 
 ---
 
