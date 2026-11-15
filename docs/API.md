@@ -7,13 +7,9 @@ The Smart Transit API connects the Passenger Application,
 Operator Application, and vehicle tracking hardware
 through a Node.js and Express backend.
 
-## Base URLs
+## Base URL
 
-### Production (Render)
 https://smart-transit-backend.onrender.com
-
-### Local Development
-http://localhost:3000
 
 ## API Endpoints
 
