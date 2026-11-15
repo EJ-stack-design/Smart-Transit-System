@@ -138,3 +138,4 @@ backend server, and MySQL database.
 - [API Documentation](docs/API.md)
 - [Installation Guide](docs/INSTALLATION.md)
 - [System Architecture](docs/images/system-architecture.png)
+- [Testing Documentation](docs/TESTING.md)
