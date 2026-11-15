@@ -106,12 +106,18 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 
 ## System Architecture
 
-The Smart Transit System consists of three main components:
+The Smart Transit System uses a client-server architecture
+to connect passengers, vehicle operators, and vehicle hardware.
 
-1. Passenger and Operator Mobile Applications
-2. Backend Server and MySQL Database
-3. GPS-Enabled Vehicle Tracking Hardware
+```mermaid
+flowchart TD
+    A[ESP32 + GPS Module] -->|Vehicle location data| B[Node.js / Express Backend]
 
-The vehicle tracking hardware collects GPS coordinates and transmits location information to the backend server. The mobile applications retrieve the necessary information through REST API requests.
+    B <--> C[(MySQL Database)]
 
-The backend processes vehicle data, calculates estimated arrival times, and stores relevant information in the database.
+    B -->|Vehicle location and ETA| D[Passenger Flutter App]
+    B -->|Fleet and passenger demand data| E[Operator Flutter App]
+
+    D -->|Passenger location sharing| B
+    E -->|Operator monitoring| B
+```
