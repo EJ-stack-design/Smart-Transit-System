@@ -76,15 +76,35 @@ Passengers can view vehicle locations and estimated arrival times, while operato
 
 ## Application Screenshots
 
+
+## Application Screenshots
+
 ### Passenger Application
 
-| Home Screen | Vehicle Tracking |
-|---|---|
-| ![Passenger Home](screenshots/passenger-home.jpg) | ![Passenger Map](screenshots/passenger-map.jpg) |
+**Passenger Home Screen**
+
+![Passenger Home](screenshots/passenger-home.jpg)
+
+**Vehicle Tracking Map**
+
+![Passenger Map](screenshots/passenger-map.jpg)
+
+**Passenger Location Sharing**
+
+![Passenger Sharing](screenshots/passenger-sharing.jpg)
+
+---
 
 ### Operator Application
 
+**Operator Login**
+
+![Operator Login](screenshots/operator-login.jpg)
+
+**Operator Dashboard**
+
 ![Operator Dashboard](screenshots/operator-dashboard.jpg)
+
 
 ---
 
