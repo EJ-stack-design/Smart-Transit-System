@@ -129,4 +129,4 @@ The Smart Transit System connects the passenger
 application, operator application, vehicle hardware,
 backend server, and MySQL database.
 
-![Smart Transit System Architecture](docs/images/system-architecture.png)
+![Smart Transit System Architecture](docs/images/Smart Transit System Architecture.png)
